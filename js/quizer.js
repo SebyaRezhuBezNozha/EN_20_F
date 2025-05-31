@@ -351,8 +351,63 @@ const EN_2020_F_PACK_1 = 1;
 let en_2020_f = [
 	{
 		pack : EN_2020_F_PACK_1,
-		group : 'Adele',
-		song : "Hello (2015)"
+		group : 'Sabrina Carpenter',
+		song : "Espresso (2024)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Sabrina Carpenter',
+		song : "Please Please Please (2024)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Sabrina Carpenter',
+		song : "Taste (2024)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Olivia Rodrigo',
+		song : "Drivers License (2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Olivia Rodrigo',
+		song : "Good 4 U (2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Olivia Rodrigo',
+		song : "Vampire (2023)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Dua Lipa',
+		song : "Levitating (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Dua Lipa',
+		song : "Cold Heart (ft Elton John) (2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Dua Lipa',
+		song : "Physical (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Ava Max',
+		song : "Kings & Queens (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Ava Max',
+		song : "My Head & My Heart (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Ava Max',
+		song : "The Motto (ft Tiësto)(2021)"
 	}
 ];
 
