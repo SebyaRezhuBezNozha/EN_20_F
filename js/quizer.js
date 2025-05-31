@@ -749,8 +749,8 @@ let generateImgPath;
 
 function setup(){
 	lang = 'en';
-	year = '2000';
-	artist_type = 'm';
+	year = '2020';
+	artist_type = 'f';
 	back = back_to_packages;
 	modeToggle = toggleArtist;
 	setMedia = setAudio;
