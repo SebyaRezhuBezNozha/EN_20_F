@@ -387,7 +387,7 @@ let en_2020_f = [
 	{
 		pack : EN_2020_F_PACK_1,
 		group : 'Dua Lipa',
-		song : "Cold Heart (ft Elton John) (2021)"
+		song : "Houdini (2023)"
 	},
 	{
 		pack : EN_2020_F_PACK_1,
