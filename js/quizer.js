@@ -409,6 +409,21 @@ let en_2020_f = [
 		pack : EN_2020_F_PACK_1,
 		group : 'Ava Max',
 		song : "The Motto (ft Tiësto)(2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Adele',
+		song : "Easy on Me (2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Adele',
+		song : "Oh My God (2021)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Adele',
+		song : "I Drink Wine (2022)"
 	}
 ];
 
@@ -437,7 +452,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
-	$('#sec_15').show();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -785,7 +800,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
-	$('#sec_15').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
