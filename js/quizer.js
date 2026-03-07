@@ -383,7 +383,8 @@ let en_2020_f = [
 	{
 		pack : EN_2020_F_PACK_1,
 		group : 'Dua Lipa',
-		song : "Levitating (2020)"
+		song : "Levitating (2020)",
+		ignore : true
 	},
 	{
 		pack : EN_2020_F_PACK_1,
@@ -424,6 +425,11 @@ let en_2020_f = [
 		pack : EN_2020_F_PACK_1,
 		group : 'Adele',
 		song : "I Drink Wine (2022)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Dua Lipa',
+		song : "Break My Heart (2020)"
 	}
 ];
 
