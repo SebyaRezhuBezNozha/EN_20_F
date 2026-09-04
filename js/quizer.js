@@ -430,6 +430,21 @@ let en_2020_f = [
 		pack : EN_2020_F_PACK_1,
 		group : 'Dua Lipa',
 		song : "Break My Heart (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Tate McRae',
+		song : "You Broke Me First (2020)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Tate McRae',
+		song : "Sports Car (2025)"
+	},
+	{
+		pack : EN_2020_F_PACK_1,
+		group : 'Tate McRae',
+		song : "It's OK I'm OK (2024)"
 	}
 ];
 
